@@ -1,16 +1,29 @@
-### Hi there 👋
+## Hi, I'm Quentin. Have a look around and learn a bit about me.
 
-<!--
-**qschmick/qschmick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current stats
+- Director of Engineering @ [NathanJames](https://nathanjames.com/blogs/careers)
+- focused on building teams and an ERP
+- Lots of PHP, Laravel, testing, and automation
+- I'm an [INTP-T](https://www.16personalities.com/profiles/b3f571c0473f6)
 
-Here are some ideas to get you started:
+### Open Source Work
+I realy believe in Open Source Software and have been lucky enough to help bring several packages to the OSS space in my past few companies. We've been working on re-homing them into an Open Source Org to ensure they stay open, free, and available.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Owning
+- https://github.com/always-open/laravel-model-auditlog
+- https://github.com/always-open/laravel-process-stamps
+- https://github.com/bluefyn-international/sidekick
+- https://github.com/bluefyn-international/report-engine
+- https://github.com/bluefyn-international/aws-cognito
+
+#### Supporting/Contributing
+- https://github.com/codestudiohq/laravel-totem
+- https://github.com/bschmitt/laravel-amqp
+
+
+### Stats
+
+<p float="left">
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=qschmick&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=qschmick&theme=vue-dark&hide_border=true&ring=21DD38&fire=DD6F42" />  
+</p>
