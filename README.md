@@ -1,9 +1,9 @@
 ## Hi, I'm Quentin. Have a look around and learn a bit about me.
 
 ### Current stats
-- VP of Engineering @ [NathanJames](https://nathanjames.com/blogs/careers)
-- focused on building teams and an ERP
-- Lots of PHP, Laravel, testing, and automation
+- VP of Engineering @ [Invaluable]([https://nathanjames.com/blogs/careers](https://www.invaluable.com/inv/about-us/careers/))
+- focused on building teams and our platform
+- Lots of PHP, Laravel, React, Java, testing, and automation
 - I'm an [INTP-T](https://www.16personalities.com/profiles/b3f571c0473f6)
 
 ### Open Source Work
