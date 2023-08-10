@@ -24,6 +24,6 @@ I realy believe in Open Source Software and have been lucky enough to help bring
 ### Stats
 
 <p float="left">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=qschmick&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=qschmick&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&include_all_commits=true&text_color=fff" />
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=qschmick&theme=vue-dark&hide_border=true&ring=21DD38&fire=DD6F42" />  
 </p>
