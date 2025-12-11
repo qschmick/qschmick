@@ -1,7 +1,7 @@
 ## Hi, I'm Quentin. Have a look around and learn a bit about me.
 
 ### Current stats
-- CTO @ [QL2](https://www.ql2.com)
+- VP Engineering @ [Precision eControl]([https://www.ql2.com](https://precisionecontrol.com/))
 - focused on building teams and our platform
 - Lots of PHP, Laravel, React, Python, testing, and automation
 - I'm an [INTP-T](https://www.16personalities.com/profiles/b3f571c0473f6)
